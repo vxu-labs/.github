@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">VXU Labs — We make the future operational.</title>
+  <desc id="desc">VXU's three-bar mark and lime accent on a charcoal grid, with intelligence, infrastructure, experiences and growth.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="20" fill="#08090a"/>
+  <rect width="1280" height="420" rx="20" fill="url(#grid)"/>
+  <g transform="translate(74 44) skewX(-12)">
+    <rect x="0" y="23" width="13" height="25" rx="1.5" fill="#f4f3ef"/>
+    <rect x="17" y="0" width="13" height="48" rx="1.5" fill="#c8ff5a"/>
+    <rect x="34" y="13" width="13" height="35" rx="1.5" fill="#f4f3ef"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="142" y="78" fill="#f4f3ef" font-size="25" font-weight="700" letter-spacing="5">VXU LABS</text>
+    <text x="1208" y="73" text-anchor="end" fill="#aaa9a5" font-size="12" letter-spacing="2">INDEPENDENT TECHNOLOGY GROUP</text>
+    <text x="64" y="192" fill="#f4f3ef" font-size="62" font-weight="700" letter-spacing="-2">We make the future</text>
+    <text x="64" y="267" fill="#c8ff5a" font-size="62" font-weight="700" letter-spacing="-2">operational.</text>
+    <text x="67" y="315" fill="#aaa9a5" font-size="19">Applied research. Connected products. Human agency.</text>
+    <path d="M64 350H1216" stroke="#ffffff" stroke-opacity=".14"/>
+    <g fill="#aaa9a5" font-family="monospace" font-size="12" letter-spacing="1.5">
+      <text x="66" y="386">01 / INTELLIGENCE</text><text x="355" y="386">02 / INFRASTRUCTURE</text>
+      <text x="672" y="386">03 / EXPERIENCES</text><text x="991" y="386">04 / GROWTH</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-opacity=".12">
+    <circle cx="1060" cy="225" r="91"/><circle cx="1060" cy="225" r="61" stroke-dasharray="3 6"/>
+    <path d="M939 225H1181M1060 104V346"/>
+  </g>
+  <circle cx="1124" cy="161" r="5" fill="#c8ff5a"/>
+  <circle cx="1007" cy="255" r="3" fill="#bfb7ff"/>
+</svg>
