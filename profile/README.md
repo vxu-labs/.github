@@ -16,7 +16,8 @@ VXU Labs is our home on GitHub. Here we share public engineering work, integrati
 
 ### Featured open source
 
-**[VXU Codex for n8n](https://github.com/vxu-labs/n8n-nodes-vxu-codex)**  
+**[VXU Codex for n8n](https://github.com/vxu-labs/n8n-nodes-vxu-codex)**
+
 Connect ChatGPT subscription models to self-hosted n8n workflows, with device sign-in, encrypted account storage, native agent tools, and streaming. Includes installation guides, tested examples, and CI. Released under MIT.
 
 ### The VXU ecosystem
