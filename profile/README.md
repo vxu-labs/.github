@@ -12,6 +12,8 @@
 
 **VXU is an independent technology group working across intelligence, infrastructure, media, and culture.** We turn applied research into usable products: tools for thinking and creating, systems for digital economies, and foundations for connected virtual worlds.
 
+**VXU — Vision · eXecution · Unity.** Vision sets the direction, execution turns ideas into working products, and unity connects people and systems. The X in eXecution is our brand shorthand.
+
 VXU Labs is our home on GitHub. Here we share public engineering work, integrations, and the documentation to put them to use.
 
 ### Featured open source
