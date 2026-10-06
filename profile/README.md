@@ -16,6 +16,14 @@ VXU Labs is our home on GitHub. Here we share public engineering work, integrati
 
 ### Featured open source
 
+**[DIP — Development Intelligence Platform](https://github.com/vxu-labs/dip)**
+
+Your session ends. Your project remembers. DIP keeps plans, checkpoints, agent activity and verification evidence alongside your code, with local coordination across Git worktrees. Early release, Node.js 24+, Apache-2.0; DIP makes no model or API calls of its own.
+
+[Explore DIP](https://vxu.me/products/dip) · [Read the launch story](https://vxu.me/blog/introducing-dip) · [Find a first contribution](https://github.com/vxu-labs/dip/contribute)
+
+Help with a project walkthrough, first-run compatibility reports or a keyboard accessibility audit. Each [open contributor issue](https://github.com/vxu-labs/dip/issues) defines a concrete deliverable.
+
 **[VXU Codex for n8n](https://github.com/vxu-labs/n8n-nodes-vxu-codex)**
 
 Connect ChatGPT subscription models to self-hosted n8n workflows, with device sign-in, encrypted account storage, native agent tools, and streaming. Includes installation guides, tested examples, and CI. Released under MIT.
